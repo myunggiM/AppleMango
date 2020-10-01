@@ -31,7 +31,9 @@
 - keras
 - opencv
 
-##### instagram API
+##### API
+- Instagram Graph API 
+- Kakao Map API
 
 ## Functions
 
