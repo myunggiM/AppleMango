@@ -1,13 +1,14 @@
 # AppleMango
 
 ## Member
+- 문명기
+- 박기훈
+- 김연수
+- 진소라
+- 이은재 
 
-|NAME|EMAIL|
-|문명기|myunggi_moon@naver.com|
-|박기훈|-|
-|진소라|-|
-|김연수|-|
-|이은재|-|
+
+
 
 ## Project Goal 
 인스타그램 활용 맛집 추천 서비스
