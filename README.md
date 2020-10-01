@@ -33,7 +33,6 @@
 
 ##### instagram API
 
-
 ## Functions
 
 ### User
@@ -58,7 +57,6 @@
 
 #### Clawling
 
-![20200807_124622](uploads/d0df383024291afdfa2ab183709cbd09/20200807_124622.png)
 <시작하기>
 * #가게명 입력
 
@@ -71,7 +69,7 @@
 2. opencv의 haarcascades을 활용한 사람이 나오는 이미지 필터링
 3. 추출된 이미지들과 인스타그램 계정데이터를 DB에 저장
 
-#### Instagram API (https 문제로 배포가 안된 상태입니다.)
+#### Instagram API 
 * FaceBook Login
 * Connect with Instagram business account 
 * Send Read Delete Comment 
@@ -79,7 +77,6 @@
 
 페이스북에서 앱검수를 안받은 상태이기 때문에 
 테스트계정만 엑세스 가능합니다
-
 
 <시작하기>
 1. 페이스북 로그인 클릭
