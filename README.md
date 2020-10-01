@@ -33,7 +33,6 @@
 
 ##### instagram API
 
-
 ## Functions
 
 ### User
@@ -58,7 +57,6 @@
 
 #### Clawling
 
-![20200807_124622](uploads/d0df383024291afdfa2ab183709cbd09/20200807_124622.png)
 <시작하기>
 * #가게명 입력
 
@@ -71,7 +69,7 @@
 2. opencv의 haarcascades을 활용한 사람이 나오는 이미지 필터링
 3. 추출된 이미지들과 인스타그램 계정데이터를 DB에 저장
 
-#### Instagram API (https 문제로 배포가 안된 상태입니다.)
+#### Instagram API 
 * FaceBook Login
 * Connect with Instagram business account 
 * Send Read Delete Comment 
@@ -79,7 +77,6 @@
 
 페이스북에서 앱검수를 안받은 상태이기 때문에 
 테스트계정만 엑세스 가능합니다
-
 
 <시작하기>
 1. 페이스북 로그인 클릭
@@ -115,11 +112,6 @@
 3.  대댓글 목록 select box 가 갱신된것을 확인 할수 있습니다.
 3-1. instagram id @myunggi_moon 에도 성공적으로 대댓글이 삭제된 것을 확인할 수 있습니다.
 
-## Todo
-* 사업장(식당) 등록 요청을 처리하기 위한 관리자 페이지 생성
-* 사업장(식당) 등록 요청 기능
-* 크롤링된 이미지 전처리 결과의 오차를 낮추기 위한 CNN 학습 진행
-* CNN 학습을 위한 데이터셋 알고리즘 구현
 
 ## Member
 - 문명기
